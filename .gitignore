@@ -1,0 +1,7 @@
+*.pyc
+HARtree/*.pyc
+
+easylists
+data
+
+server.log

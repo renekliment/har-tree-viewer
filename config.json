@@ -1,0 +1,10 @@
+{
+	"fetchEngines": {
+		"phantomjs_command": "phantomjs /usr/share/phantomjs/examples/netsniff.js $url",
+		"browsermobproxy_binary": "/opt/browsermob-proxy-2.1.0-beta-3/bin/browsermob-proxy",
+		"defaultHarStorage": "./data/"
+	},
+	"adblockparser" : {
+		"easylist_file": "./easylists/easyall.txt"
+	}
+}
